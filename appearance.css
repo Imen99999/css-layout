@@ -1,0 +1,86 @@
+.logo img{
+    width: 250px;
+    height: 100px;
+}
+body{
+    font-weight:400;
+    font-family:Roboto
+}
+#doc{
+    display:flex;
+    justify-content: space-between;
+}
+.navig{
+    display:flex;
+    float: right;
+    margin-top: 50px;
+    margin-right: 100px;
+    justify-content: flex-end;
+}
+.navig{
+    margin-left: 20px;
+    font-size: 20px;
+    color:aqua;
+}
+.career{
+    color: aqua;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+header{
+    position: fixed;
+    top: 0;
+    left: 15px;
+    width: 100%;
+    z-index: 3;
+    background: hsla(0,0%,100%,.98);
+    transition: box-shadow .25s ease 0s
+}
+
+.About{
+    margin-right: 10px;
+    margin-top: 0px;
+    color:aqua
+}
+.career{
+    color:aqua;
+    margin-left: 25px;
+    margin-right: 30px;
+}
+.departments{
+    color:aqua
+}
+.quote{
+    font-size: 2.125rem;
+    color: #00b39b;
+    margin: 1em 0;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
+    margin-top: 50px;
+}
+.quote{
+    display:flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+.log img{
+    margin-left: 239.347px;
+    margin-right: 239.395 px;
+}
+#About us{
+    margin-top: 500px;
+}
+#About us{
+    display:flex;
+    justify-content: center;
+    position: relative;
+    flex-direction: row;
+}
+.quote{
+    display: block;
+    font-size: 2em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
